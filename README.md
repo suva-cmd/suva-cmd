@@ -1,7 +1,6 @@
 # Suva Bhattarai
 
 Aspiring IT Professional & Business Strategist  
-Kathmandu, Bagmati, Nepal
 
 ---
 
@@ -43,7 +42,6 @@ I am a highly motivated and analytical individual beginning my journey at the in
 
 I’m always open to discussing new opportunities, collaborations, or simply exchanging ideas about technology and business. Let’s connect!
 
-- **Email**: [Your Email Here]  
+- **Email**: [suvabhattarai8@gmail.com]  
 - **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com)
-- **Location**: Kathmandu, Bagmati, Nepal
 
